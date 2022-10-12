@@ -19,4 +19,4 @@ There are some excellent paid options out there, I have personally used [Magnet]
 
 [**Rectangle**](https://rectangleapp.com/)
 
-### Screen Shoot
+### Screen Shot
