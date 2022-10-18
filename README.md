@@ -44,4 +44,4 @@ My current daily driver is [**Obsidian**](https://obsidian.md/). This app can se
 Obsidian is basically a fancy text editor that works with markdown(.md) files which make it incredablly fast. It does take some effort to get it set up for your workflow but the end result is a fast light weight knowledge managment tool that can run on any system.
 
 My other choice is [**Craft**](https://www.craft.do/). [**Notion**](https://www.notion.so/) is to databases what [**Craft**](https://www.craft.do/) is to writing. This app is created to provide an amazing note taking experience and its capabilities are powerful. 
-- I think about switch back at least once a day, so, I always keep it installed for that fateful day.)
+- I think about switching back at least once a day, so, I always keep it installed for that fateful day.
